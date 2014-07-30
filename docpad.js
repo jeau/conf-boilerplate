@@ -7,13 +7,13 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
+      name: "Collection ",
       description: "Conference description",
-      date: "November 15",
+      date: "15 novembre 2014",
       // If your event is free, just comment this line
       price: "$100",
-      venue: "Coco Bongo",
-      address: "1 place de la Cathédrale",
+      venue: "Parc des expositions",
+      address: "Parc des expositions, 11 rue Salvador Allende, 86000 Poitiers, France",
       city: "Poitiers",
       state: "France"
     },
