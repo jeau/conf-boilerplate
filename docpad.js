@@ -13,9 +13,9 @@ module.exports = {
       // If your event is free, just comment this line
       price: "$100",
       venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      address: "1 place de la Cathédrale",
+      city: "Poitiers",
+      state: "France"
     },
 
     // The Call To Action button at the header,
